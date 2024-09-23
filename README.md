@@ -16,12 +16,3 @@ Este projeto coleta dados do Twitter utilizando a **Twitter API**, processa-os e
 
 - **Docker** instalado na máquina.
 - **Chaves da Twitter API**. Você pode obtê-las criando um aplicativo na [Twitter Developer Platform](https://developer.twitter.com/).
-
-## Como executar o projeto
-
-### 1. Clone este repositório
-
-```bash
-git clone https://github.com/seu-usuario/twitter_dashboard_project.git
-cd twitter_dashboard_project
-
