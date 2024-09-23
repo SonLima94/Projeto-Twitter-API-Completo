@@ -1,0 +1,4 @@
+tweepy==4.10.0
+pandas==1.5.3
+dash==2.9.3
+plotly==5.13.1
